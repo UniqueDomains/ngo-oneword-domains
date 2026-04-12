@@ -1,22 +1,22 @@
-# Available .NGO One-Word Domains (5,621,926)
+# Available .NGO One-Word Domains (9,403)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C403%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C403%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .ngo one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .ngo one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,403-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,403 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 9,403 rows · **Live catalog:** 9,403 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/ngo`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | converse.ngo   | available | $16.99    | $16.99        | 64             | 73     | 8      | name.com    |
 | new.ngo        | resell    | —         | —             | 82             | 49     | 3      | Dynadot Inc |
-| data.ngo       | premium   | $650      | $325          | 70             | 60     | 4      | namecheap   |
+| data.ngo       | premium   | $650      | $325          | 70             | 56     | 4      | namecheap   |
 | nationwide.ngo | available | $16.99    | $16.99        | 76             | 66     | 10     | name.com    |
 | good.ngo       | premium   | $62.50    | $31.25        | 82             | 55     | 4      | name.com    |
 | seventeen.ngo  | available | $16.99    | $16.99        | 84             | 62     | 9      | name.com    |
@@ -78,12 +78,12 @@ print(df.head())
 | athletics.ngo  | available | $24.98    | —             | 69             | 52     | 9      | namecheap   |
 | learning.ngo   | premium   | $65       | $32.50        | 76             | 41     | 8      | namecheap   |
 | simple.ngo     | available | $16.99    | $16.99        | 128            | 48     | 6      | name.com    |
-| unity.ngo      | premium   | $3,125    | $1,562.50     | 70             | 41     | 5      | name.com    |
-| only.ngo       | available | $16.99    | $16.99        | 110            | 47     | 4      | name.com    |
-| check.ngo      | premium   | $62.50    | $31.25        | 76             | 38     | 5      | name.com    |
-| genius.ngo     | available | $16.99    | $16.99        | 98             | 47     | 6      | name.com    |
-| unify.ngo      | premium   | $1,562.50 | $781.25       | 72             | 38     | 5      | name.com    |
+| unity.ngo      | premium   | $3,125    | $1,562.50     | 70             | 40     | 5      | name.com    |
 | big.ngo        | available | $16.99    | $16.99        | 88             | 47     | 3      | name.com    |
+| check.ngo      | premium   | $62.50    | $31.25        | 76             | 38     | 5      | name.com    |
+| bridge.ngo     | available | $16.99    | —             | 68             | 47     | 6      | name.com    |
+| unify.ngo      | premium   | $1,562.50 | $781.25       | 72             | 38     | 5      | name.com    |
+| trade.ngo      | available | $24.98    | —             | 116            | 46     | 5      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,403-row public sample | 5,621,926 live domains                           |
+| 9,403-row public sample | 9,403 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -73,16 +73,16 @@ print(df.head())
 | real.ngo       | premium   | $3,250    | $1,625        | 78             | 49     | 4      | namecheap   |
 | ace.ngo        | available | $16.99    | $16.99        | 88             | 57     | 3      | name.com    |
 | security.ngo   | premium   | $3,250    | $1,625        | 70             | 49     | 8      | namecheap   |
-| fast.ngo       | available | $16.99    | $16.99        | 82             | 53     | 4      | name.com    |
+| fast.ngo       | available | $16.99    | $16.99        | 82             | 52     | 4      | name.com    |
 | insurance.ngo  | premium   | $65       | $32.50        | 76             | 44     | 9      | namecheap   |
 | athletics.ngo  | available | $24.98    | —             | 69             | 52     | 9      | namecheap   |
 | learning.ngo   | premium   | $65       | $32.50        | 76             | 41     | 8      | namecheap   |
-| simple.ngo     | available | $16.99    | $16.99        | 128            | 48     | 6      | name.com    |
+| simple.ngo     | available | $16.99    | $16.99        | 128            | 49     | 6      | name.com    |
 | unity.ngo      | premium   | $3,125    | $1,562.50     | 70             | 40     | 5      | name.com    |
 | big.ngo        | available | $16.99    | $16.99        | 88             | 47     | 3      | name.com    |
-| check.ngo      | premium   | $62.50    | $31.25        | 76             | 38     | 5      | name.com    |
-| bridge.ngo     | available | $16.99    | —             | 68             | 47     | 6      | name.com    |
 | unify.ngo      | premium   | $1,562.50 | $781.25       | 72             | 38     | 5      | name.com    |
+| bridge.ngo     | available | $16.99    | —             | 68             | 47     | 6      | name.com    |
+| check.ngo      | premium   | $62.50    | $31.25        | 76             | 37     | 5      | name.com    |
 | trade.ngo      | available | $24.98    | —             | 116            | 46     | 5      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

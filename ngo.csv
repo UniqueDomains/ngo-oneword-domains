@@ -800,6 +800,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 435a5caa-052a-42f7-b7e3-2e8a06b31073,tothe.ngo,available,16.99,,54,7,6,name.com,,
 4366b6e7-9a79-4f1f-b5eb-6fc760ba2974,LordofChristmas.ngo,available,24.98,,54,1,17,namecheap,,
 439051c6-9700-4688-a22f-ac9a7cd79a40,mouldbreaking.ngo,available,16.99,,64,1,14,name.com,,
+43d8a2f6-7c8e-4eb6-af66-b88dc9c75c5b,merit.ngo,premium,,,82,29,5,,,
 43e13b07-bacc-402d-86d8-a066fbc71f34,mountainridge.ngo,available,16.99,,52,3,14,name.com,,
 43ea51a2-a719-4bb9-9ba4-6d7260e2aa2c,tips.ngo,available,16.99,,80,26,4,name.com,,
 440470f6-a70c-49f9-ba22-f7ba18876709,keepdown.ngo,available,16.99,,68,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54e5e526-34e4-497d-b31f-ca86dfbdad76,generalsofthearmy.ngo,available,16.99,,48,1,20,name.com,,
 550f59eb-8ef1-403b-8228-ac1ebcb8701e,offerings.ngo,available,16.99,,52,4,9,name.com,,
 552069ff-7143-4533-abca-7cdd87649f02,searches.ngo,available,16.99,,50,9,8,name.com,,
-552645b7-abb0-4405-9913-d15309ef321b,weddingcake.ngo,available,16.99,,85,5,12,name.com,,

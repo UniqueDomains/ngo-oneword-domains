@@ -1,10 +1,10 @@
-# Available .NGO One-Word Domains (12,363)
+# Available .NGO One-Word Domains (12,365)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C363%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C365%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ngo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,363 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,365 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,363 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,365 domains · **Median ask:** $35.24 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/ngo`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,12 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.ngo         | available | $16.99    | —             | 80             | 26     | 4      | name.com  |
+| ladies.ngo       | available | $16.99    | —             | 80             | 17     | 6      | name.com  |
+| Apples.ngo       | available | $24.98    | —             | 90             | 16     | 6      | namecheap |
+| playin.ngo       | available | $16.99    | —             | 80             | 10     | 7      | name.com  |
+| toneup.ngo       | available | $16.99    | —             | 80             | 5      | 7      | name.com  |
+| stirup.ngo       | available | $16.99    | —             | 82             | 3      | 7      | name.com  |
 | regions.ngo      | available | $16.99    | —             | 64             | 59     | 7      | name.com  |
 | products.ngo     | premium   | $625      | —             | 60             | 23     | 8      | name.com  |
 | cars.ngo         | available | $16.99    | —             | 66             | 47     | 4      | name.com  |
@@ -78,12 +84,6 @@ print(df.head())
 | seas.ngo         | premium   | $625      | —             | 58             | 13     | 4      | name.com  |
 | neuroscience.ngo | available | $16.99    | —             | 80             | 37     | 12     | name.com  |
 | alternatives.ngo | premium   | $62.50    | —             | 58             | 13     | 12     | name.com  |
-| stories.ngo      | available | $16.99    | —             | 58             | 36     | 7      | name.com  |
-| gives.ngo        | premium   | $62.50    | —             | 52             | 12     | 5      | name.com  |
-| trends.ngo       | available | $16.99    | —             | 60             | 32     | 6      | name.com  |
-| cometogether.ngo | premium   | $62.50    | —             | 70             | 10     | 13     | name.com  |
-| letsgo.ngo       | available | $16.99    | —             | 57             | 31     | 7      | name.com  |
-| hospitals.ngo    | premium   | $62.50    | —             | 64             | 10     | 9      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,363 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,365 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names on the .ngo extension, a niche ending that signals nonprofit or mission-led use. That makes the set relevant for founders who want a cause-aligned identity and for investors who care about how narrow positioning affects buyer demand. The median ask is 35.24, so many names may look inexpensive at first glance. The harder part is judging whether the word is credible, broad enough for real use, and free of obvious trademark conflict. Generic terms such as tips.ngo or forces.ngo read differently from brand-exposed names such as Chanel.ngo, and that difference matters more than small price gaps.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer generic words over obvious brand references
+- Check whether the word fits a nonprofit context
+- Short, common words are easier to remember and explain
+- Low ask does not remove renewal or usage risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

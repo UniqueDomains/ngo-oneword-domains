@@ -776,6 +776,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4170fee6-96e1-42bd-9f9c-6c30830aa44c,proxymurder.ngo,available,16.99,,36,1,12,name.com,,
 419eac3d-8a3e-4f16-8575-093b3dc6b6d3,devoting.ngo,available,16.99,,56,2,8,name.com,,
 41a88383-640e-499a-996a-d9444502db7f,guards.ngo,available,16.99,,76,9,6,name.com,,
+41ac738d-d4dd-47b5-91a7-32d1b9383499,Ropes.ngo,premium,,,56,9,5,,,
 41b2daa7-34ff-4fd2-a55a-ef41e36dccd7,coffeeculture.ngo,available,16.99,,72,4,14,name.com,,
 41d030c5-87a8-48ae-b2d8-9b9c7f440629,getthrough.ngo,available,16.99,,79,2,11,name.com,,
 41f58964-5e4f-4cb3-a2cf-9b7f894f794e,launchsite.ngo,available,16.99,,60,7,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54da25cd-f482-4c37-bf16-5a1aab726d5c,inthelongrun.ngo,available,16.99,,60,2,15,name.com,,
 54e5e526-34e4-497d-b31f-ca86dfbdad76,generalsofthearmy.ngo,available,16.99,,48,1,20,name.com,,
 550f59eb-8ef1-403b-8228-ac1ebcb8701e,offerings.ngo,available,16.99,,52,4,9,name.com,,
-552069ff-7143-4533-abca-7cdd87649f02,searches.ngo,available,16.99,,50,9,8,name.com,,

@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .ngo one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,367 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,367 domains · **Median ask:** $35.24 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,367 domains · **Median ask:** $39.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/ngo`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/ngo`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .NGO one-word domain c
 
 ### Files
 
-- `ngo.csv` — public CSV extract (1,000 rows)
-- `ngo.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ngo.csv`, public CSV extract (1,000 rows)
+- `ngo.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.ngo         | available | $16.99    | —             | 80             | 26     | 4      | name.com  |
-| ladies.ngo       | available | $16.99    | —             | 80             | 17     | 6      | name.com  |
-| Apples.ngo       | available | $24.98    | —             | 90             | 16     | 6      | namecheap |
-| playin.ngo       | available | $16.99    | —             | 80             | 10     | 7      | name.com  |
-| toneup.ngo       | available | $16.99    | —             | 80             | 5      | 7      | name.com  |
-| stirup.ngo       | available | $16.99    | —             | 82             | 3      | 7      | name.com  |
-| regions.ngo      | available | $16.99    | —             | 64             | 59     | 7      | name.com  |
-| products.ngo     | premium   | $625      | —             | 60             | 23     | 8      | name.com  |
-| cars.ngo         | available | $16.99    | —             | 66             | 47     | 4      | name.com  |
-| investors.ngo    | premium   | $62.50    | —             | 60             | 23     | 9      | name.com  |
-| Ryan.ngo         | available | $24.98    | —             | 60             | 44     | 4      | namecheap |
-| blogs.ngo        | premium   | $62.50    | —             | 52             | 21     | 5      | name.com  |
-| coins.ngo        | available | $16.99    | —             | 56             | 41     | 5      | name.com  |
-| mathematics.ngo  | premium   | $62.50    | —             | 68             | 19     | 11     | name.com  |
-| shortcuts.ngo    | available | $16.99    | —             | 48             | 41     | 10     | name.com  |
-| horses.ngo       | premium   | $62.50    | —             | 56             | 14     | 6      | name.com  |
-| justin.ngo       | available | $16.99    | —             | 58             | 38     | 7      | name.com  |
-| seas.ngo         | premium   | $625      | —             | 58             | 13     | 4      | name.com  |
-| neuroscience.ngo | available | $16.99    | —             | 80             | 37     | 12     | name.com  |
-| alternatives.ngo | premium   | $62.50    | —             | 58             | 13     | 12     | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| beg.ngo   | available | $16.99    | —             | medium         | low    | 3      | name.com  |
+| age.ngo   | premium   | $62.50    | —             | high           | low    | 3      | name.com  |
+| ben.ngo   | available | $16.99    | —             | high           | medium | 3      | name.com  |
+| gay.ngo   | premium   | $62.50    | —             | high           | medium | 3      | name.com  |
+| bug.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| mom.ngo   | premium   | $1,562.50 | —             | high           | low    | 3      | name.com  |
+| bye.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| duck.ngo  | premium   | $62.50    | —             | medium         | low    | 4      | name.com  |
+| con.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| hear.ngo  | premium   | $62.50    | —             | high           | low    | 4      | name.com  |
+| dig.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| home.ngo  | premium   | $62.50    | —             | high           | medium | 4      | name.com  |
+| fly.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| lake.ngo  | premium   | $62.50    | —             | high           | low    | 4      | name.com  |
+| her.ngo   | available | $16.99    | —             | medium         | low    | 3      | name.com  |
+| pain.ngo  | premium   | $625      | —             | high           | low    | 4      | name.com  |
+| IDK.ngo   | available | $16.99    | —             | medium         | low    | 3      | name.com  |
+| blood.ngo | premium   | $62.50    | —             | high           | low    | 5      | name.com  |
+| jar.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| faith.ngo | premium   | $62.50    | —             | high           | low    | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .ngo extension, a niche ending that signals nonprofit or mission-led use. That makes the set relevant for founders who want a cause-aligned identity and for investors who care about how narrow positioning affects buyer demand. The median ask is 35.24, so many names may look inexpensive at first glance. The harder part is judging whether the word is credible, broad enough for real use, and free of obvious trademark conflict. Generic terms such as tips.ngo or forces.ngo read differently from brand-exposed names such as Chanel.ngo, and that difference matters more than small price gaps.
+This set covers 12,367 one-word domain names on the .NGO extension, with a median ask around $39. The names are short and single-word — from travel and lifestyle terms like bonvoyage.ngo and getready.ngo to tech and service names like hightech.ngo and dogwalking.ngo. Because .NGO is a smaller, mission-aligned extension, clear one-word names remain widely available across sectors, giving buyers more room to find a fitting match before committing.
 
-- Prefer generic words over obvious brand references
-- Check whether the word fits a nonprofit context
-- Short, common words are easier to remember and explain
-- Low ask does not remove renewal or usage risk
+- 12,367 one-word .NGO domains available across sectors
+- Median asking price near $39 per domain
+- Includes travel, tech, lifestyle, and mission-driven names
+- Updated daily to reflect current .NGO listings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

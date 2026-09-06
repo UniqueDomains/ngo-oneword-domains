@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ngo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,457 domains · **Median ask:** $29.11 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/ngo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| sorry.ngo   | available | $16.99    | $16.99        | high           | low    | 5      | name.com  |
-| beauty.ngo  | premium   | $625      | —             | high           | low    | 6      | name.com  |
-| nothing.ngo | available | $16.99    | —             | high           | low    | 7      | name.com  |
-| beg.ngo     | available | $16.99    | —             | medium         | low    | 3      | name.com  |
-| age.ngo     | premium   | $62.50    | —             | high           | low    | 3      | name.com  |
-| ben.ngo     | available | $16.99    | —             | high           | medium | 3      | name.com  |
-| gay.ngo     | premium   | $62.50    | —             | high           | medium | 3      | name.com  |
-| bug.ngo     | available | $16.99    | —             | high           | low    | 3      | name.com  |
-| mom.ngo     | premium   | $1,562.50 | —             | high           | low    | 3      | name.com  |
-| bye.ngo     | available | $16.99    | —             | high           | low    | 3      | name.com  |
-| duck.ngo    | premium   | $62.50    | —             | medium         | low    | 4      | name.com  |
-| con.ngo     | available | $16.99    | —             | high           | low    | 3      | name.com  |
-| hear.ngo    | premium   | $62.50    | —             | high           | low    | 4      | name.com  |
-| dig.ngo     | available | $16.99    | —             | high           | low    | 3      | name.com  |
-| home.ngo    | premium   | $62.50    | —             | high           | medium | 4      | name.com  |
-| fly.ngo     | available | $16.99    | —             | high           | low    | 3      | name.com  |
-| lake.ngo    | premium   | $62.50    | —             | high           | low    | 4      | name.com  |
-| her.ngo     | available | $16.99    | —             | medium         | low    | 3      | name.com  |
-| pain.ngo    | premium   | $625      | —             | high           | low    | 4      | name.com  |
-| IDK.ngo     | available | $16.99    | —             | medium         | low    | 3      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| beg.ngo   | available | $16.99    | —             | medium         | low    | 3      | name.com  |
+| age.ngo   | premium   | $62.50    | —             | high           | low    | 3      | name.com  |
+| ben.ngo   | available | $16.99    | —             | high           | medium | 3      | name.com  |
+| gay.ngo   | premium   | $62.50    | —             | high           | medium | 3      | name.com  |
+| bug.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| mom.ngo   | premium   | $1,562.50 | —             | high           | low    | 3      | name.com  |
+| bye.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| duck.ngo  | premium   | $62.50    | —             | medium         | low    | 4      | name.com  |
+| con.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| hear.ngo  | premium   | $62.50    | —             | high           | low    | 4      | name.com  |
+| dig.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| home.ngo  | premium   | $62.50    | —             | high           | medium | 4      | name.com  |
+| fly.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| lake.ngo  | premium   | $62.50    | —             | high           | low    | 4      | name.com  |
+| her.ngo   | available | $16.99    | —             | medium         | low    | 3      | name.com  |
+| pain.ngo  | premium   | $625      | —             | high           | low    | 4      | name.com  |
+| IDK.ngo   | available | $16.99    | —             | medium         | low    | 3      | name.com  |
+| bantu.ngo | premium   | $62.50    | $31.25        | low            | low    | 5      | name.com  |
+| jar.ngo   | available | $16.99    | —             | high           | low    | 3      | name.com  |
+| blood.ngo | premium   | $62.50    | —             | high           | low    | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 81230dc4-f777-4dfd-9e5b-b7cac034179c,silly.ngo,available,18.98,24.98,high,low,5,namecheap,,,21/09/2026 23:43
-338530f5-4602-499f-8f76-bed6f666823b,freeway.ngo,available,16.99,,high,low,7,name.com,,,
+338530f5-4602-499f-8f76-bed6f666823b,freeway.ngo,available,18.98,24.98,high,low,7,namecheap,,,27/09/2026 06:59
 a74a7dad-642b-4f0e-8b88-96cd8a671097,astrocyte.ngo,available,18.98,24.98,medium,low,9,namecheap,,,20/09/2026 17:36
 83e43be5-a6f4-48bc-a139-bba70cfc144e,reptile.ngo,available,18.98,24.98,high,low,7,namecheap,,,09/09/2026 14:41
 413dd72b-b9f0-4a5b-a2d0-a078e98daff2,nucleated.ngo,available,18.98,24.98,medium,low,9,namecheap,,,03/09/2026 22:22
@@ -18,6 +18,8 @@ f4005b7a-3281-40c5-ad31-24c1112f68eb,foxily.ngo,available,18.98,24.98,medium,low
 58171249-869f-42a4-8eb1-28c4d980d2d0,moderately.ngo,available,16.99,16.99,medium,low,10,name.com,,,25/09/2026 12:00
 b54d1f35-caaf-43dc-b8d4-94733eeb4c3e,energizing.ngo,available,16.99,16.99,high,low,10,name.com,,,
 1bde09a8-c427-4637-9e43-3a41925159a6,aigrette.ngo,available,16.99,16.99,medium,low,8,name.com,,,17/09/2026 20:55
+16202476-8796-4c91-9231-b27719979d37,mcleod.ngo,available,18.98,24.98,high,low,6,namecheap,,,27/09/2026 06:53
+a66c7f3a-a017-49db-b86f-7962ce7c2cb5,copies.ngo,available,18.98,24.98,medium,low,6,namecheap,,,27/09/2026 09:16
 c3ca1c15-8bf0-470b-843b-8e77c0c55575,bentwood.ngo,available,18.98,24.98,medium,low,8,namecheap,,,23/09/2026 08:47
 0d2e0c7b-afa0-4649-a11c-f48e9b05ed4d,anaerobe.ngo,available,18.98,24.98,medium,low,8,namecheap,,,19/09/2026 01:18
 acf56cd9-a6eb-4371-aa35-0e0d7a658c38,seasick.ngo,available,16.99,16.99,medium,low,7,name.com,,,
@@ -39,7 +41,7 @@ d40d0607-7463-47d8-b6e6-8bfc330000af,profiled.ngo,available,18.98,24.98,medium,l
 3daf4268-e439-4a0b-a92d-ca70dd771067,wed.ngo,available,18.98,24.98,high,low,3,namecheap,,,13/09/2026 09:28
 97290574-a3cb-40b9-8152-eb6c81f43b0e,cleverness.ngo,available,18.98,24.98,high,low,10,namecheap,,,24/09/2026 15:36
 8a613f96-e57e-4f54-a4d5-8d15bc1cf495,rigged.ngo,available,18.98,24.98,high,low,6,namecheap,,,09/09/2026 17:25
-53bf4884-0a24-4620-ac34-62a31f53282f,psychic.ngo,available,16.99,,high,low,7,name.com,,,
+53bf4884-0a24-4620-ac34-62a31f53282f,psychic.ngo,available,18.98,24.98,high,low,7,namecheap,,,27/09/2026 07:57
 622a8794-b567-43d3-aac0-e3163b18f4e6,rowland.ngo,available,18.98,24.98,high,low,7,namecheap,,,25/09/2026 15:13
 5b6236c4-dba8-4c9f-86d2-b98f60774d33,spiky.ngo,available,16.99,16.99,medium,low,5,name.com,,,08/09/2026 11:12
 e93d1769-c309-438f-88eb-0fe8fc16ee14,bleached.ngo,available,16.99,16.99,medium,low,8,name.com,,,10/08/2026 13:52
@@ -59,7 +61,7 @@ a30cbfaa-be05-4df7-b965-fc7deebee4fe,sagittal.ngo,available,18.98,24.98,high,med
 658b6a53-606b-4b5f-85f8-55481cfe941b,cashable.ngo,available,16.99,16.99,medium,low,8,name.com,,,11/08/2026 20:12
 af9b52b7-bb3e-44fc-93eb-a4e097bb582f,induced.ngo,available,16.99,16.99,high,low,7,name.com,,,22/08/2026 03:27
 23e48a62-717f-49dd-8dea-fc5da39aaf48,pseudonym.ngo,available,18.98,24.98,high,low,9,namecheap,,,19/09/2026 11:33
-229bfd2d-965f-49f0-acad-a4687cbf49bc,resounding.ngo,available,16.99,,high,low,10,name.com,,,
+229bfd2d-965f-49f0-acad-a4687cbf49bc,resounding.ngo,available,15.2,15.2,high,low,10,cloudflare,,,27/09/2026 12:35
 c6a20305-b803-4e1c-be02-8979f2e1e4e1,anabaptist.ngo,available,18.98,24.98,medium,low,10,namecheap,,,19/09/2026 00:49
 c4d508cc-2b4d-468a-88e3-9fe3d0928186,beetle.ngo,available,16.99,16.99,high,low,6,name.com,,,09/08/2026 08:17
 8e629770-0ed7-487f-95cc-7f63c95db605,thirties.ngo,available,18.98,24.98,high,low,8,namecheap,,,16/09/2026 12:05
@@ -114,6 +116,7 @@ aa3f9282-6597-4db1-9833-81ba58a686b1,mcpherson.ngo,available,18.98,24.98,high,lo
 c66cf156-874f-410f-bec0-1aaa06f24298,disarming.ngo,available,16.99,16.99,high,low,9,name.com,,,14/08/2026 09:30
 e10a1c13-d069-4710-a6a8-a5bfc9237fd1,unblended.ngo,available,18.98,24.98,medium,low,9,namecheap,,,12/09/2026 02:12
 806375df-6bb5-47bd-a54c-76d9941bba48,but.ngo,available,18.98,24.98,high,low,3,namecheap,,,25/09/2026 12:23
+853ad94f-63e8-422a-a84b-0820525e72ec,upton.ngo,available,16.72,16.72,medium,low,5,dynadot,,,27/09/2026 11:29
 58505f5a-2c45-4a26-b901-a7fb7385daca,lapp.ngo,available,18.98,24.98,high,low,4,namecheap,,,19/09/2026 15:44
 a59b5913-df3b-4533-8927-32abc5cd3170,balustrade.ngo,available,18.98,24.98,high,low,10,namecheap,,,22/09/2026 00:29
 84e4fe6e-bdbc-4b10-a527-81b647b63c6e,flatly.ngo,available,16.99,16.99,medium,low,6,name.com,,,14/09/2026 05:29
@@ -130,6 +133,7 @@ c8132df2-1ed1-48cd-a44e-c87694b5a393,jason.ngo,available,,,high,low,5,,,,
 80baf2a1-e8c7-44ca-bedc-eef753b8c137,trichrome.ngo,available,18.98,24.98,medium,low,9,namecheap,,,11/09/2026 19:24
 77ba91f5-3f60-4d75-b6e0-03525f18eda1,allegation.ngo,available,18.98,24.98,high,low,10,namecheap,,,18/09/2026 10:09
 4442095c-a12f-42e3-88ae-e701d8970e10,unbounded.ngo,available,16.99,16.99,high,medium,9,name.com,,,10/08/2026 22:34
+3b9b25f7-8ac3-4866-a115-b1c51e4101a9,sake.ngo,available,18.98,24.98,high,low,4,namecheap,,,27/09/2026 05:08
 76da56d8-c985-4a32-8927-269ab3bfcd42,ana.ngo,available,16.99,,high,low,3,name.com,,,
 ca657e05-3299-4f10-a83e-2ecda24b4bea,stood.ngo,available,16.99,,medium,low,5,name.com,,,
 fa2e2cda-8469-4cf0-9728-1e4d507fe104,salts.ngo,available,16.99,,medium,low,5,name.com,,,20/09/2026 01:25
@@ -176,6 +180,7 @@ a60365ec-4a66-47bd-862f-35a6a842d532,unconscious.ngo,available,16.99,16.99,mediu
 76337c59-6c72-4792-a81a-ee51d3791448,mediate.ngo,available,16.99,16.99,high,low,7,name.com,,,21/08/2026 23:37
 22993eea-bc2f-4c30-b022-90280adf6fd9,indifferent.ngo,available,16.99,,high,low,11,name.com,,,
 a2d12c2c-21d0-4b52-9ef5-625212a7988e,acronymous.ngo,available,16.99,16.99,medium,low,10,name.com,,,
+6cf8082a-144c-4d8f-8c6a-24f167ebb48e,arrangements.ngo,available,18.98,24.98,high,low,12,namecheap,,,27/09/2026 10:40
 b27d00fd-65c3-40eb-8d01-ac36806ec346,ably.ngo,available,16.99,16.99,high,low,4,name.com,,,13/09/2026 16:20
 b07a3de3-95cf-48f9-90f2-8facf51c40ba,dignifying.ngo,available,16.99,16.99,medium,low,10,name.com,,,14/08/2026 07:23
 97d1e95e-3f64-440e-8da9-959211c4e34b,florid.ngo,available,16.99,16.99,medium,low,6,name.com,,,07/08/2026 17:26
@@ -209,6 +214,7 @@ ba1ace2b-f0c8-4f3e-84aa-5a0c91537b8d,facile.ngo,available,16.99,16.99,high,low,6
 fa4713a6-c651-4f0a-9ac9-9ee7e6f5d4bd,robin.ngo,available,16.99,,high,low,5,name.com,,,
 64e84334-c7a3-4e75-b7f8-e23f271c4406,marbled.ngo,available,16.99,16.99,medium,low,7,name.com,,,24/08/2026 15:47
 cb7c2c5d-173d-4bdd-963d-ba4fd1b68df5,plummet.ngo,available,16.99,16.99,medium,low,7,name.com,,,08/09/2026 21:42
+2de1657f-76fb-4ead-932e-74a995e0ca39,causes.ngo,available,18.98,24.98,high,low,6,namecheap,,,27/09/2026 09:34
 b48fc3e4-51ac-4088-b1c2-205b2958ed00,frankly.ngo,available,18.98,24.98,high,low,7,namecheap,,,14/09/2026 05:08
 a90beab0-127e-4777-a240-18e03b33ed08,snickers.ngo,available,18.98,24.98,high,low,8,namecheap,,,18/09/2026 04:34
 195724a7-22ef-4675-98fc-164daca1ea77,baby.ngo,premium,3125,,high,low,4,name.com,,,
@@ -224,7 +230,7 @@ ed2f872b-fd54-425b-89ab-a98398eb71ac,subdued.ngo,available,16.99,16.99,medium,lo
 583784b8-adee-4d63-ae2c-2a20f8c52997,xxviii.ngo,available,16.99,16.99,medium,low,6,name.com,,,
 bc790879-c031-4227-8b7c-05cd68e17c47,recaptured.ngo,available,18.98,24.98,medium,low,10,namecheap,,,18/09/2026 19:20
 85acf861-8ac2-471a-b605-6c1ec5036660,disgust.ngo,available,16.99,,high,low,7,name.com,,,
-b274f286-86f2-41c3-ac85-0a4d3ae9dd86,political.ngo,available,16.99,,high,low,9,name.com,,,
+b274f286-86f2-41c3-ac85-0a4d3ae9dd86,political.ngo,available,18.98,24.98,high,low,9,namecheap,,,27/09/2026 04:28
 3273552d-242f-48b7-a8bb-4214ed7e401a,milliliter.ngo,available,16.99,16.99,medium,low,10,name.com,,,11/08/2026 22:53
 5c0c12d2-9abd-4369-80d2-0fc428cb1443,devoid.ngo,available,16.99,16.99,medium,low,6,name.com,,,14/08/2026 05:13
 a1eeba7e-493a-41ca-b0ad-004f2e244d56,auckland.ngo,available,18.98,24.98,high,low,8,namecheap,,,21/09/2026 02:39
@@ -267,6 +273,7 @@ d6e22d15-8169-4a08-8075-2d52a0f2d863,sequel.ngo,available,16.99,,high,low,6,name
 ac19765b-f516-400c-ac4d-f7eebd87b4de,oxycontin.ngo,available,18.98,24.98,medium,low,9,namecheap,,,20/09/2026 00:25
 449f2b3f-ef46-44d8-9f5c-b0fe5ac85ee4,nutritious.ngo,available,18.98,24.98,high,low,10,namecheap,,,19/09/2026 11:02
 b508b8b3-3a09-4341-bfce-6d196984ee3d,rule.ngo,available,18.98,24.98,high,low,4,namecheap,,,03/09/2026 21:15
+a49cf11d-afd3-4db5-9075-01a8be61a70c,alexandra.ngo,available,18.98,24.98,medium,low,9,namecheap,,,27/09/2026 02:30
 0567226f-1439-4306-a9b2-d5e9f046cec6,unstained.ngo,available,18.98,24.98,medium,low,9,namecheap,,,10/09/2026 18:17
 1085e2a8-f8fc-41e5-9bba-66bc5c317ae2,alkyl.ngo,available,18.98,24.98,medium,low,5,namecheap,,,18/09/2026 08:34
 470f518c-a843-41df-a0ee-e7ee467f865e,gamy.ngo,available,16.99,16.99,medium,low,4,name.com,,,18/08/2026 19:55
@@ -314,7 +321,7 @@ c31599b9-16a0-4b6d-bb48-99f6e6575aab,abruzzi.ngo,available,18.98,24.98,medium,lo
 08e5fcb6-9eae-442a-8ea4-b489bc933432,trained.ngo,available,16.99,,high,low,7,name.com,,,
 df9152da-8609-4583-9712-56d110395eea,coffeeberry.ngo,available,16.99,,high,low,12,name.com,,,
 548f47b0-56c9-469c-af2d-c86aa81f252f,showing.ngo,available,18.98,24.98,high,low,7,namecheap,,,25/09/2026 10:36
-01fd9a0a-dbe9-47d9-98e3-d71e7ab574f0,wheel.ngo,available,16.99,,high,low,5,name.com,,,
+01fd9a0a-dbe9-47d9-98e3-d71e7ab574f0,wheel.ngo,available,18.98,24.98,high,low,5,namecheap,,,27/09/2026 03:13
 78fbdce5-bb71-4ab9-89dd-bc084f388e47,baldric.ngo,available,18.98,24.98,medium,low,7,namecheap,,,21/09/2026 21:45
 e7397777-cea8-4e82-9abb-2161fd005d68,upended.ngo,available,18.98,24.98,medium,low,7,namecheap,,,12/09/2026 23:06
 7e37efb7-fc8d-4890-b716-0df79d1037e8,adhere.ngo,available,18.98,24.98,high,low,6,namecheap,,,23/09/2026 17:04
@@ -396,6 +403,7 @@ a9643d32-e09a-4225-a0d0-cd226c3f31c2,zhou.ngo,available,18.98,24.98,high,low,4,n
 465c8396-b889-4498-a702-ba30907dc9b4,malaria.ngo,premium,62.5,,high,low,7,name.com,,,
 40686ecc-49da-4fcf-bb5f-d9e7c5b51a19,griffiths.ngo,available,18.98,24.98,medium,low,9,namecheap,,,26/09/2026 03:40
 7f541541-f9c7-4e40-b9b5-f5975fdda07d,retrieve.ngo,available,16.99,,high,low,8,name.com,,,
+c93bb064-6096-4b13-9cfb-ac1c721181e5,manners.ngo,available,18.98,24.98,high,low,7,namecheap,,,27/09/2026 04:41
 89c30c37-291b-4da6-8aeb-2349ebed0ff0,endogenic.ngo,available,16.99,16.99,medium,low,9,name.com,,,17/08/2026 01:13
 7bc9b4f9-eb0e-4ec3-88fd-376300774e9a,unsound.ngo,available,18.98,24.98,medium,low,7,namecheap,,,24/09/2026 16:24
 f4174aec-cfea-4a48-9fc1-1ef84448cecc,uncontrollable.ngo,available,16.99,,medium,low,14,name.com,,,
@@ -436,6 +444,7 @@ be51f956-44e5-4f60-9d28-59fa2ef901d4,applecart.ngo,available,18.98,24.98,medium,
 3e5878be-41b6-4bd1-9a36-76ad3d6d5985,impala.ngo,available,18.98,24.98,medium,low,6,namecheap,,,17/09/2026 12:44
 311c5e2b-0ffc-43a5-99a5-9964d9b80a76,accommodate.ngo,available,16.99,,high,low,11,name.com,,,
 69cd5093-44c5-4192-b5e9-c87accdd92c1,ramsey.ngo,available,18.98,24.98,high,low,6,namecheap,,,25/09/2026 15:22
+7419d049-1bc4-43aa-9f1d-ec8eae10a098,sickness.ngo,available,18.98,24.98,high,low,8,namecheap,,,27/09/2026 04:31
 1c4bfc8e-6e6c-46fc-b5cd-96a8c44a9234,employable.ngo,available,16.99,16.99,high,low,10,name.com,,,16/08/2026 18:22
 24e41a9e-ff08-4f3a-a5b8-61f945e35edb,melted.ngo,available,16.99,16.99,high,low,6,name.com,,,23/08/2026 23:37
 06991a0a-d429-4feb-bdea-2c4b57ef13d3,tog.ngo,available,18.98,24.98,high,low,3,namecheap,,,19/09/2026 20:00
@@ -452,13 +461,14 @@ ac05c943-2bd6-464c-99a5-9b4ce44383bf,packing.ngo,available,16.99,,high,low,7,nam
 f78b22ef-c5b1-4cd8-867a-96e053c8fe22,bastille.ngo,available,18.98,24.98,high,low,8,namecheap,,,22/09/2026 12:48
 605c02f1-4f9a-43ef-8026-0cf4d24607c6,blackfly.ngo,available,18.98,24.98,medium,low,8,namecheap,,,19/09/2026 17:06
 544e5c24-ddf9-4146-be9e-b788703aa2f6,torment.ngo,available,16.99,16.99,medium,low,7,name.com,,,14/08/2026 21:14
+9e9b7311-44c1-4e75-b984-6ad8d961c65c,tobago.ngo,available,18.98,24.98,high,low,6,namecheap,,,27/09/2026 05:45
 1f6ebbc4-6892-4c65-aed0-52611ab8b088,changeable.ngo,available,16.99,16.99,medium,low,10,name.com,,,12/08/2026 01:51
 de1f3aa3-f3ea-4861-a8e1-0fdbee17e6b5,disarmer.ngo,available,18.98,24.98,medium,low,8,namecheap,,,04/09/2026 22:39
 e444bcbd-519b-4e99-8648-5d6cbbb4e85d,buttercups.ngo,available,18.98,24.98,medium,low,10,namecheap,,,20/09/2026 19:49
 043872a0-5a53-40e4-aed9-a57f3f00c278,requisitions.ngo,available,18.98,24.98,medium,low,12,namecheap,,,20/09/2026 14:26
 e8501e84-9987-4b97-8540-0b49eccec05c,reversion.ngo,available,18.98,24.98,high,low,9,namecheap,,,09/09/2026 16:19
 96071224-bac0-47be-bc7c-852fae1ff53f,mnemonic.ngo,available,16.99,16.99,high,low,8,name.com,,,25/08/2026 02:12
-b245d02e-b095-45e3-829b-c19cd07a5bf0,fill.ngo,available,16.99,,high,low,4,name.com,,,
+b245d02e-b095-45e3-829b-c19cd07a5bf0,fill.ngo,available,18.98,24.98,high,low,4,namecheap,,,27/09/2026 11:50
 84bfda82-c828-4b68-97d0-8853db616312,rarity.ngo,available,18.98,24.98,high,low,6,namecheap,,,24/09/2026 20:28
 5c4a2105-5327-47ba-9235-e03b935b648b,hanging.ngo,available,18.98,24.98,high,low,7,namecheap,,,25/09/2026 04:41
 b999b6cb-2173-43be-b03b-bf5abc98e4f1,bandmaster.ngo,available,18.98,24.98,high,low,10,namecheap,,,22/09/2026 01:26
@@ -492,6 +502,7 @@ d99f0ae8-ccef-4deb-9188-adbff6589e80,scale.ngo,available,16.99,,high,medium,5,na
 4b54bd38-4a42-49e4-b1ba-c8060f34d4c6,deprave.ngo,available,16.99,16.99,medium,low,7,name.com,,,13/08/2026 02:24
 c2d6a4dc-962b-4442-9e71-0edc84d75a7e,itchy.ngo,available,16.99,16.99,high,low,5,name.com,,,05/08/2026 20:43
 5fae7af1-69fe-45a2-bd15-7d48004a6d57,lifted.ngo,available,16.99,16.99,high,low,6,name.com,,,23/08/2026 02:39
+4f29ba74-a7e9-43ab-8d7f-6f0ac5c77932,vince.ngo,available,18.98,24.98,high,low,5,namecheap,,,27/09/2026 07:24
 8fd3124f-f1d1-4271-8b0b-8ef31388fe58,egocentric.ngo,available,16.99,16.99,medium,low,10,name.com,,,15/08/2026 19:41
 5b2c04fe-c30f-4387-ab33-17565c7c7369,unshaved.ngo,available,18.98,24.98,medium,low,8,namecheap,,,12/09/2026 19:42
 0658fcf5-58a6-43db-9cfe-899b281ce1eb,amherst.ngo,available,18.98,24.98,high,low,7,namecheap,,,25/09/2026 12:38
@@ -526,7 +537,7 @@ cc115abb-1f0e-4623-ad53-626ca36fd46a,bayard.ngo,available,18.98,24.98,medium,low
 d5014563-f7f0-4009-81d4-7bd1d4e60cc7,pendulous.ngo,available,16.99,16.99,medium,low,9,name.com,,,12/08/2026 00:50
 5cd86f76-07b2-485a-99d9-b1847c712801,norton.ngo,available,16.99,16.99,high,high,6,name.com,,,25/09/2026 12:24
 37aed130-ecbf-4afd-ac9d-16fb1b16d07d,whap.ngo,available,18.98,24.98,medium,low,4,namecheap,,,22/09/2026 10:30
-0827ae44-3e2b-429c-ab67-17ef55ed3df1,pink.ngo,available,16.99,,high,low,4,name.com,,,
+0827ae44-3e2b-429c-ab67-17ef55ed3df1,pink.ngo,available,18.98,24.98,high,low,4,namecheap,,,27/09/2026 03:47
 fadafcbe-a847-4005-a563-73f29457a419,wayne.ngo,available,18.98,24.98,high,low,5,namecheap,,,19/09/2026 13:47
 a07f753c-9b72-453a-8557-265ea8f048aa,willie.ngo,available,16.99,16.99,high,low,6,name.com,,,25/09/2026 11:47
 32125517-0c9b-4c38-bd98-19c97abdfbbc,sedulous.ngo,available,16.99,16.99,medium,low,8,name.com,,,07/08/2026 06:14
@@ -539,6 +550,7 @@ fcd1a78d-adf1-49cc-ad72-8467f4149c99,rancid.ngo,available,16.99,16.99,high,mediu
 3b7eb79b-d7c7-4128-8e1b-e415fdcee1ac,abator.ngo,available,18.98,24.98,medium,low,6,namecheap,,,16/09/2026 14:13
 395e2a13-d6f3-48cf-86c3-19c2275a4bf1,adsorption.ngo,available,18.98,24.98,medium,low,10,namecheap,,,17/09/2026 10:05
 49803ba3-cfd4-4e50-8ef9-41e954771375,sciolist.ngo,available,16.99,16.99,medium,low,8,name.com,,,14/08/2026 07:43
+c522aa5f-d07e-4168-b718-37b1fa4a6542,shown.ngo,available,18.98,24.98,medium,low,5,namecheap,,,27/09/2026 08:00
 049a6f1d-876e-4fba-a0a6-50f518b5d87d,locomotor.ngo,available,16.99,16.99,high,low,9,name.com,,,24/08/2026 08:50
 0427cd22-9983-4b80-9029-8edd5d3fd769,unhuman.ngo,available,16.99,16.99,medium,low,7,name.com,,,14/08/2026 00:04
 7acb2123-0d80-4445-8edf-6d8b42d972fe,lid.ngo,available,16.99,16.99,high,low,3,name.com,,,24/09/2026 13:43
@@ -569,6 +581,7 @@ be3d3ed4-5d6d-43e2-a92c-c8718d778daf,criteria.ngo,available,16.99,16.99,high,low
 94322753-e280-4a51-9c17-7d3e5e71ebb9,backboard.ngo,available,18.98,24.98,high,low,9,namecheap,,,21/09/2026 15:09
 cc391f20-86a9-434c-9eb6-11ed5bc2ba93,spoiled.ngo,available,18.98,24.98,high,low,7,namecheap,,,10/09/2026 16:20
 baa10cc5-89a2-4337-b28a-dd4a6484bcc7,unweaned.ngo,available,18.98,24.98,medium,low,8,namecheap,,,12/09/2026 22:29
+3adcdf8c-78dd-4f5f-925f-0be1ceea2307,hannibal.ngo,available,18.98,24.98,high,low,8,namecheap,,,27/09/2026 04:24
 555a61e6-19bf-40de-b6fb-8e24aa3e5286,brushed.ngo,available,16.99,16.99,high,low,7,name.com,,,11/08/2026 06:58
 eba36c2c-d690-4ec4-a366-a0c7ebbd1529,clarity.ngo,available,16.99,,high,medium,7,name.com,,,
 48de54e6-d20e-4c50-b2fc-ece8fad134ca,acrylamide.ngo,available,18.98,24.98,medium,low,10,namecheap,,,17/09/2026 04:00
@@ -581,7 +594,7 @@ bd2ceb85-320f-400e-a223-6f743e452b1c,antitumor.ngo,available,18.98,24.98,high,lo
 64aac710-f9f2-41bb-a438-2b361e2b041c,arbalist.ngo,available,18.98,24.98,medium,low,8,namecheap,,,20/09/2026 00:35
 b4d7b26c-b01f-492a-b664-9bf83dd08d4d,believable.ngo,available,16.99,16.99,medium,low,10,name.com,,,09/08/2026 13:01
 75a9437b-7404-4696-9010-1efffbaf0788,eastwards.ngo,available,16.99,16.99,medium,low,9,name.com,,,14/08/2026 23:00
-796e554a-f424-4039-8e6a-d57053af2371,don.ngo,available,16.99,,high,low,3,name.com,,,
+796e554a-f424-4039-8e6a-d57053af2371,don.ngo,available,18.98,24.98,high,low,3,namecheap,,,27/09/2026 08:52
 9f47478c-c073-4903-8960-79cdf8316711,activator.ngo,available,18.98,24.98,high,low,9,namecheap,,,17/09/2026 05:10
 e35e1583-7266-4215-a20c-99bd70f29410,chekov.ngo,available,18.98,24.98,medium,low,6,namecheap,,,19/09/2026 15:28
 acc227ea-44c9-4dbb-bf16-a94ba6612f9a,biogenetic.ngo,available,16.99,16.99,high,low,10,name.com,,,10/08/2026 01:12
@@ -589,7 +602,7 @@ acc227ea-44c9-4dbb-bf16-a94ba6612f9a,biogenetic.ngo,available,16.99,16.99,high,l
 0a0332ac-5220-451d-b0da-d8ea70234052,catalogue.ngo,available,18.98,24.98,high,low,9,namecheap,,,24/09/2026 13:08
 bd970c6b-8a6c-4f2a-8caa-e33ddb7cf7e1,armorer.ngo,available,18.98,24.98,medium,low,7,namecheap,,,20/09/2026 07:29
 3518f054-5bd5-4ca2-b288-c45dfdf5bec6,unpainted.ngo,available,18.98,24.98,medium,low,9,namecheap,,,12/09/2026 16:25
-754ee89e-fcb8-4d63-b167-2220d2bed3c2,designers.ngo,available,18.98,24.98,high,low,9,namecheap,,,19/09/2026 23:31
+754ee89e-fcb8-4d63-b167-2220d2bed3c2,designers.ngo,available,18.98,24.98,high,low,9,namecheap,,,27/09/2026 02:12
 b8703af6-c879-4b1d-abe6-8cc0194aa1f0,plucked.ngo,available,18.98,24.98,high,low,7,namecheap,,,08/09/2026 21:28
 87668648-73cd-400c-80e2-0006e29c08f7,praises.ngo,available,18.98,24.98,medium,low,7,namecheap,,,19/09/2026 00:10
 695e88b6-dbe1-4e3c-b8c8-d545721ec7f2,answer.ngo,premium,62.5,,high,low,6,name.com,,,
@@ -613,8 +626,10 @@ ed94d406-6fe0-4be5-b76c-102f2b2c4d7a,winsomely.ngo,available,18.98,24.98,medium,
 cbb68ebf-0dc9-4e34-a49d-67d9ffb214b0,defunct.ngo,available,16.99,16.99,medium,low,7,name.com,,,13/08/2026 23:55
 a112043c-3106-4aa5-ba25-e9c9f5eee29a,trim.ngo,available,16.99,16.99,high,low,4,name.com,,,12/08/2026 10:14
 69292f9b-3275-408b-9f06-38902ce200d1,scarlet.ngo,available,16.99,16.99,high,low,7,name.com,,,10/08/2026 15:12
+b954503c-80f4-4068-9414-85755ab11ddd,embarrassing.ngo,available,18.98,24.98,high,low,12,namecheap,,,27/09/2026 06:37
 cdf6fc2d-a83c-4946-8b49-41ef5b889800,appropriately.ngo,available,16.99,,medium,low,13,name.com,,,
 f06a7b27-1f5d-45d2-b5b9-9699079be3ff,elastic.ngo,available,16.99,16.99,high,low,7,name.com,,,16/08/2026 00:43
+2114fe74-559d-4cb2-b244-6b7b7e53cd0b,civilization.ngo,available,18.98,24.98,high,low,12,namecheap,,,27/09/2026 07:12
 06b9a2f8-03b5-4217-b9b9-f7a7353cd863,developing.ngo,premium,62.5,31.25,high,low,10,name.com,,,24/09/2026 07:59
 59b2e49c-ed36-4eeb-9686-389bbcf4dfc2,demonic.ngo,available,16.99,16.99,medium,low,7,name.com,,,14/08/2026 01:26
 2b0fa44c-18df-4230-ae6c-d1f94d9bb7e6,apatura.ngo,available,18.98,24.98,medium,low,7,namecheap,,,19/09/2026 16:22
@@ -639,7 +654,7 @@ b2eddf21-30a5-493f-adf9-3eaa27794f17,drinkable.ngo,available,16.99,16.99,high,lo
 3fbe7ec5-5fa1-40fb-9850-6cd1200bc778,recluse.ngo,available,18.98,24.98,high,low,7,namecheap,,,09/09/2026 11:38
 339d491a-5a8b-4f3e-9676-25c880465666,aquitania.ngo,available,18.98,24.98,medium,low,9,namecheap,,,19/09/2026 23:18
 3cfd3cbc-a623-4143-ae25-416ac29a28e2,modeling.ngo,available,18.98,24.98,high,low,8,namecheap,,,24/09/2026 15:25
-fbe2eab5-d18b-4dc4-a13f-14bff371655c,passive.ngo,available,16.99,,high,low,7,name.com,,,
+fbe2eab5-d18b-4dc4-a13f-14bff371655c,passive.ngo,available,18.98,24.98,high,low,7,namecheap,,,27/09/2026 02:56
 48d40c84-7f3e-414e-a176-627e44e486e0,wasteful.ngo,available,18.98,24.98,medium,low,8,namecheap,,,12/09/2026 08:47
 eaa33f42-715c-4ed8-8c95-f9a8685584ae,arctic.ngo,available,16.99,16.99,high,low,6,name.com,,,06/08/2026 16:07
 e5a62542-bfe9-4ee8-9f11-9a9685b350d1,lenient.ngo,available,16.99,16.99,high,low,7,name.com,,,22/08/2026 23:46
@@ -660,6 +675,7 @@ fe9b4279-af0b-4d97-91b3-9bbc13ef7d91,melancholy.ngo,available,18.98,24.98,high,l
 edd0bf2e-f430-4e12-831f-63b27a112481,apologue.ngo,available,18.98,24.98,medium,low,8,namecheap,,,18/09/2026 10:43
 1c5ce5b1-433f-48b2-82a2-9f8485ffc851,tools.ngo,premium,1625,812.5,high,medium,5,namecheap,,,17/09/2026 15:46
 b0eadebe-e8d7-45e9-8111-93e3741bfe6f,case.ngo,available,16.99,,high,low,4,name.com,,,
+d8c6ea00-8204-4c16-a671-35f784c939fb,mathews.ngo,available,18.98,24.98,medium,low,7,namecheap,,,27/09/2026 01:56
 389d9b36-65a5-43e8-b853-67622ffadae0,tbd.ngo,available,16.99,,high,low,3,name.com,,,
 2be7f1cc-909f-40b2-9ad6-29ce8a89c700,damaged.ngo,available,16.99,16.99,high,low,7,name.com,,,13/08/2026 16:03
 bb5d6aba-0010-4c3d-8f96-36a51ec8926a,distaff.ngo,available,16.99,16.99,medium,low,7,name.com,,,14/08/2026 13:01
@@ -678,7 +694,7 @@ ce84f5ae-d7b3-430d-9c34-c086eb778347,amundsen.ngo,available,18.98,24.98,medium,l
 665e3f17-7f87-463d-b88a-a354bd7dbc3a,colin.ngo,available,18.98,24.98,high,low,5,namecheap,,,26/09/2026 03:20
 2b60294d-5acc-4f48-a632-d304a8e04f58,bumpy.ngo,available,16.99,16.99,medium,low,5,name.com,,,11/08/2026 09:48
 82895c6c-cad2-438b-bfe8-ce93d33eb57e,pectoral.ngo,available,18.98,24.98,high,low,8,namecheap,,,08/09/2026 11:58
-30569f0e-27be-46f7-9b7a-df24d6304678,profitable.ngo,available,16.99,,high,low,10,name.com,,,
+30569f0e-27be-46f7-9b7a-df24d6304678,profitable.ngo,available,18.98,24.98,high,low,10,namecheap,,,27/09/2026 07:05
 dd1e3edb-63b1-4f49-a253-f1cb7f6bc263,dry.ngo,premium,65,32.5,high,low,3,namecheap,,,24/09/2026 12:15
 c2f015b3-a612-4f54-ae3a-e7d26c20f22d,smoke.ngo,premium,625,,high,low,5,name.com,,,
 3007df00-3075-4e5e-ad24-498bf625067b,aquilegia.ngo,available,18.98,24.98,medium,low,9,namecheap,,,19/09/2026 23:13
@@ -742,6 +758,7 @@ b5bf2b8e-5b6f-47fa-9b2b-962a8f7a4736,australia.ngo,available,,,high,high,9,,,,
 2728ff7d-7692-41f5-9eac-87bc275f5f85,telluric.ngo,available,18.98,24.98,medium,low,8,namecheap,,,11/09/2026 10:39
 d3ce94b8-9cbd-47e7-b85b-eaf56f6de17d,pencilled.ngo,available,18.98,24.98,medium,low,9,namecheap,,,08/09/2026 13:59
 99597a1d-8ace-4ca4-b640-2d3c61e84847,curiosity.ngo,available,16.99,,high,low,9,name.com,,,
+fa8336f9-f90b-49fb-b116-e8e2e2d95904,nursing.ngo,available,15.2,15.2,high,low,7,cloudflare,,,27/09/2026 11:56
 e44733d1-f26e-496b-85ab-936dc3c8942e,lean.ngo,available,16.99,16.99,high,low,4,name.com,,,22/08/2026 22:04
 b382d56e-d5a9-44ea-b4bd-12ea722747a3,boer.ngo,available,16.99,16.99,high,low,4,name.com,,,
 1b512e7e-0c44-4ff6-8901-e5798bdb7763,snowball.ngo,available,18.98,24.98,high,low,8,namecheap,,,16/09/2026 17:20
@@ -757,11 +774,11 @@ c5aa9379-3cf0-44ca-bc9e-3a9cb086f95c,bovid.ngo,available,16.99,16.99,high,medium
 55409cdd-a4be-48b7-a301-e50a4b155c90,congress.ngo,available,18.98,24.98,high,low,8,namecheap,,,24/09/2026 13:02
 ebdea955-b2e5-48e9-ae0e-c241d74a1ce8,winged.ngo,available,16.99,16.99,high,low,6,name.com,,,13/09/2026 12:29
 760e8cb9-5068-40c6-9287-242952d225a4,hermit.ngo,available,18.98,24.98,high,low,6,namecheap,,,09/09/2026 11:42
-e5494c44-da9e-4364-a709-ac7cc3c6d0ae,passionate.ngo,available,16.99,,high,low,10,name.com,,,
+e5494c44-da9e-4364-a709-ac7cc3c6d0ae,passionate.ngo,available,18.98,24.98,high,low,10,namecheap,,,27/09/2026 02:53
 8485f683-72a9-4206-a9f9-f40e61f06889,throws.ngo,available,18.98,24.98,medium,low,6,namecheap,,,19/09/2026 00:51
 b3fc2d43-ddd8-4065-8aff-4f1d4f081358,comal.ngo,available,16.99,16.99,medium,low,5,name.com,,,12/08/2026 18:23
 60536841-737c-4edc-8b0b-354a8708cf1e,watchful.ngo,available,16.99,16.99,high,low,8,name.com,,,
-ffef6581-f64d-4854-ac99-4aa08e576e19,detail.ngo,available,16.99,,high,low,6,name.com,,,
+ffef6581-f64d-4854-ac99-4aa08e576e19,detail.ngo,available,18.98,24.98,high,low,6,namecheap,,,27/09/2026 09:10
 d1fcc653-0cb5-4e78-bdde-0887294e1aae,trusted.ngo,available,18.98,24.98,high,low,7,namecheap,,,11/09/2026 20:44
 341855a8-50ab-4ea2-9e23-57531f1c73e3,redeemed.ngo,available,18.98,24.98,high,medium,8,namecheap,,,09/09/2026 10:22
 e5ce2368-6ef4-4c72-ae82-ca2de385ac66,cotton.ngo,available,16.99,,high,low,6,name.com,,,
@@ -849,6 +866,7 @@ aeb880ef-6317-4aed-98fb-9d6bc6df01d2,eating.ngo,available,18.98,24.98,high,low,6
 a4b62e8c-f798-46d4-981e-3424a549c83e,players.ngo,available,16.99,,high,low,7,name.com,,,
 e360a61d-976b-493f-a3af-eb5b880bc6c1,achene.ngo,available,18.98,24.98,high,low,6,namecheap,,,17/09/2026 00:28
 ab12f3ed-3062-4708-9e55-42e8672cba0e,studied.ngo,available,18.98,24.98,high,low,7,namecheap,,,10/09/2026 22:59
+635bd76f-3608-4a0a-926e-9be724380368,claremont.ngo,available,18.98,24.98,high,low,9,namecheap,,,27/09/2026 08:22
 0694afbd-2cca-4bcd-ad1e-b6e207c57d76,atomiser.ngo,available,18.98,24.98,medium,low,8,namecheap,,,21/09/2026 00:19
 1e4b2a48-0abb-4006-b62f-4d92a658809b,factor.ngo,available,16.99,,high,low,6,name.com,,,
 d7a3303c-0fe3-46fa-96b6-ed02cdc05679,floaty.ngo,available,16.99,16.99,high,low,6,name.com,,,11/08/2026 10:08
@@ -967,6 +985,7 @@ db7235d0-7908-46f8-9904-64647acbe060,coldly.ngo,available,16.99,,medium,low,6,na
 6f0845c9-0791-4ba7-9df1-6d043d05ce57,want.ngo,available,16.99,,high,low,4,name.com,,,
 df012422-53b3-4b30-9bab-b31d7ca74b7f,healed.ngo,available,16.99,16.99,high,low,6,name.com,,,13/08/2026 11:04
 c9744e82-1595-4535-8f45-08e54486a830,left.ngo,premium,650,325,high,low,4,namecheap,,,25/09/2026 13:25
+0533b7be-13c9-4c5c-a99e-7e6ace4111bc,deals.ngo,available,18.98,24.98,high,low,5,namecheap,,,27/09/2026 10:04
 a8d35f48-9ef7-470b-b279-1524ddce6685,donkeywork.ngo,available,18.98,24.98,medium,low,10,namecheap,,,08/09/2026 21:22
 03ea9a9d-7ad6-4613-b6fe-c4db469e653c,peaceable.ngo,available,16.99,16.99,high,low,9,name.com,,,08/09/2026 11:08
 f1fdc7d1-7b90-4c45-89bf-f552ca6c65fc,tuba.ngo,available,18.98,24.98,high,low,4,namecheap,,,22/09/2026 11:52
@@ -980,22 +999,3 @@ d5f08f41-3670-408d-8584-80caafb83b80,mothers.ngo,available,18.98,24.98,high,low,
 88aa5d46-4fd4-4ca8-806f-868f0d147f73,spend.ngo,available,16.99,,high,low,5,name.com,,,
 0afdc5ca-6c08-465a-9930-d6a9506ff752,gaily.ngo,available,18.98,24.98,medium,low,5,namecheap,,,14/09/2026 20:57
 d74a2a05-da4a-4f42-bedc-2781bd879f58,leash.ngo,available,16.99,16.99,high,low,5,name.com,,,
-52812ade-e0c8-42aa-8b00-4926dc015131,drives.ngo,available,18.98,24.98,medium,low,6,namecheap,,,25/09/2026 17:24
-cd7cf1cc-25bb-43ac-8d45-31b1d993c979,sixtieth.ngo,available,16.99,16.99,high,low,8,name.com,,,
-7736313a-d83c-4e26-8b3f-3c24741a8c30,tetragon.ngo,available,16.99,16.99,medium,low,8,name.com,,,09/09/2026 07:24
-1e45abb0-847a-450c-ba19-21f2c552fd46,hypertonic.ngo,available,16.99,16.99,medium,low,10,name.com,,,21/08/2026 16:56
-a809e26c-8895-43a0-aaa3-d04eace2444f,secondly.ngo,available,16.99,,medium,low,8,name.com,,,
-54e46289-19a0-469b-82b9-d05ee15a99c9,thoracic.ngo,available,18.98,24.98,high,low,8,namecheap,,,08/09/2026 12:02
-7ab7bdcf-c848-45da-ac1d-f60925c062ad,capped.ngo,available,16.99,16.99,medium,low,6,name.com,,,11/08/2026 18:02
-2b2ec521-cc43-4914-95a9-a55c1ca47929,jumping.ngo,available,18.98,24.98,high,low,7,namecheap,,,08/09/2026 06:49
-883bb7fc-1fe5-4b35-9176-f76f7da07515,mutable.ngo,available,16.99,16.99,high,low,7,name.com,,,12/08/2026 01:50
-f9d0ddb6-293d-4280-8518-46ce61d8638f,mesozoic.ngo,available,16.99,16.99,medium,low,8,name.com,,,24/08/2026 21:21
-27da90e0-3c7f-4323-a137-2f7f3527d489,droning.ngo,available,16.99,16.99,medium,low,7,name.com,,,25/08/2026 05:28
-261b2590-fc6b-4fe3-81af-b9a5ef9fe51e,charabanc.ngo,available,16.99,16.99,medium,low,9,name.com,,,21/09/2026 05:58
-4aa22cbe-7731-4533-bb51-2a2f88ef897b,altimeter.ngo,available,18.98,24.98,medium,low,9,namecheap,,,18/09/2026 14:58
-3e19ee9c-ddbf-4a88-85a2-c27794e065e5,frore.ngo,available,16.99,16.99,low,low,5,name.com,,,18/08/2026 16:21
-ae9dbf85-504c-498e-b359-409af086be86,xanthous.ngo,available,18.98,24.98,medium,low,8,namecheap,,,13/09/2026 14:00
-3f3411a1-c10f-4f36-bf5d-7f98f0fd95c5,dishonour.ngo,available,16.99,,medium,low,9,name.com,,,
-0bbb6e81-26d7-4550-a7bc-7dffcd14bdc9,clue.ngo,available,16.99,,high,low,4,name.com,,,
-44ac782f-4e68-44f6-9100-b2165ed40378,cargo.ngo,available,18.98,24.98,high,low,5,namecheap,,,24/09/2026 12:56
-eaec40eb-ca09-406b-98f1-52e02cc52bc6,statutory.ngo,available,18.98,24.98,medium,low,9,namecheap,,,10/09/2026 19:20

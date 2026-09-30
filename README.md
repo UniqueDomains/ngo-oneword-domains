@@ -1,10 +1,10 @@
-# Available .NGO One-Word Domains (27,000)
+# Available .NGO One-Word Domains (29,432)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C000%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C432%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ngo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,000 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,432 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,000 domains · **Median ask:** $29.35 · **High-demand under $2,500:** 64
+**Public extract:** 1,000 rows · **Live catalog:** 29,432 domains · **Median ask:** $28.72 · **High-demand under $2,500:** 72
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/ngo`
 **Best for:** founders, investors, studios
 
@@ -68,21 +68,21 @@ print(df.head())
 | dry.ngo    | premium   | $65       | $32.50        | high           | low    | 3      | namecheap  |
 | atf.ngo    | available | $18.98    | $24.98        | high           | low    | 3      | namecheap  |
 | gay.ngo    | premium   | $65       | $32.50        | high           | medium | 3      | namecheap  |
-| azt.ngo    | available | $18.98    | $24.98        | high           | low    | 3      | namecheap  |
+| atv.ngo    | available | $16.72    | $16.72        | high           | low    | 3      | dynadot    |
 | baby.ngo   | premium   | $3,125    | —             | high           | low    | 4      | name.com   |
-| bps.ngo    | available | $18.98    | $24.98        | high           | low    | 3      | namecheap  |
+| azt.ngo    | available | $18.98    | $24.98        | high           | low    | 3      | namecheap  |
 | best.ngo   | premium   | $3,250    | $1,625        | high           | medium | 4      | namecheap  |
-| but.ngo    | available | $18.98    | $24.98        | high           | low    | 3      | namecheap  |
+| bps.ngo    | available | $18.98    | $24.98        | high           | low    | 3      | namecheap  |
 | basis.ngo  | premium   | $1,365.10 | $682.81       | high           | low    | 5      | porkbun    |
-| cxx.ngo    | available | $16.99    | $16.99        | high           | low    | 3      | name.com   |
+| but.ngo    | available | $18.98    | $24.98        | high           | low    | 3      | namecheap  |
 | right.ngo  | premium   | $1,625    | $812.50       | high           | low    | 5      | namecheap  |
-| doe.ngo    | available | $15.20    | $15.20        | high           | low    | 3      | cloudflare |
+| csf.ngo    | available | $15.20    | $15.20        | medium         | low    | 3      | cloudflare |
 | smoke.ngo  | premium   | $546.35   | $273.44       | high           | low    | 5      | porkbun    |
-| don.ngo    | available | $18.98    | $24.98        | high           | low    | 3      | namecheap  |
+| csu.ngo    | available | $15.20    | $15.20        | high           | low    | 3      | cloudflare |
 | tools.ngo  | premium   | $1,625    | $812.50       | high           | medium | 5      | namecheap  |
-| fit.ngo    | available | $18.98    | $24.98        | high           | medium | 3      | namecheap  |
+| cxx.ngo    | available | $16.99    | $16.99        | high           | low    | 3      | name.com   |
 | waste.ngo  | premium   | $3,250    | $1,625        | high           | low    | 5      | namecheap  |
-| gee.ngo    | available | $16.99    | —             | high           | low    | 3      | name.com   |
+| doe.ngo    | available | $15.20    | $15.20        | high           | low    | 3      | cloudflare |
 | addict.ngo | premium   | $65       | $32.50        | high           | low    | 6      | namecheap  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,000 live domains                        |
+| 1,000-row public sample | 29,432 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 64 high-demand names under $2,500          |
+| Basic exported fields   | 72 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NGO One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
